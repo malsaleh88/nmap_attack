@@ -63,12 +63,8 @@ nmap -sS -Pn 192.168.1.53
 
 **Results:**
 
-```
-PORT     STATE SERVICE
-22/tcp   open  ssh
-80/tcp   open  http
-3389/tcp open  ms-wbt-server
-```
+![1](https://github.com/user-attachments/assets/f51d5e15-374b-478c-9d6e-ee61ebc1418c)
+
 
 ---
 
@@ -80,6 +76,10 @@ PORT     STATE SERVICE
   - **Event ID 4624** (Successful Logon)
   - **Event ID 4798** (Enumeration of User Accounts)
   - **Event ID 4799** (Security Group Enumeration)
+
+
+![Screenshot 2025-02-14 220721](https://github.com/user-attachments/assets/5691c619-0419-4903-b57d-646fd0d085ae)
+
 
 #### **🚨 Analysis of Event Findings**
 
